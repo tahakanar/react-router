@@ -1,5 +1,4 @@
 import { Fragment } from "react";
-import { NavLink } from "react-router-dom";
 import classes from "./Layout.module.css";
 import MainNavigation from "./MainNavigation";
 
